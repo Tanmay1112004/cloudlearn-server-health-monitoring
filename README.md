@@ -44,3 +44,6 @@ AWS EC2 (Amazon Linux 2023)
 
 ```cron
 */5 * * * * /home/ec2-user/health_check.sh >> /home/ec2-user/health-logs/health.log 2>&1
+
+---
+
